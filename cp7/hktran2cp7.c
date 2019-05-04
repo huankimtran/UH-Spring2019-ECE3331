@@ -1,3 +1,11 @@
+/*
+***************************
+@author: Huan Kim Tran
+@UHID:  1831696
+@Program: CP7
+@Purpose: Polynomials manipulations
+*********************8*****
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
