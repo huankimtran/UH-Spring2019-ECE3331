@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1555029950 source:d:\projects\cp6\cp6hktran2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555387516 source:e:\projects\cp6\cp6hktran2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555389978 source:e:\projects\cp6\cp6.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

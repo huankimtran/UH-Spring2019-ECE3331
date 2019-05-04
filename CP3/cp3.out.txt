@@ -1,0 +1,10 @@
+The binary representation of decimal             8763.011              is 0 10001100 00010001110110000001011
+The binary representation of decimal                0.1                is 0 01111011 10011001100110011001101
+The binary representation of decimal               25                  is 00000000000000000000000000011001
+The binary representation of decimal              -38                  is 11111111111111111111111111011010
+The binary representation of decimal       1234567890                  is 01001001100101100000001011010010
+The binary representation of decimal            -1110                  is 11111111111111111111101110101010
+The binary representation of decimal              -11.0                is 1 10000010 01100000000000000000000
+The binary representation of decimal              -13.265              is 1 10000010 10101000011110101110001
+The binary representation of decimal             8763.000001           is 0 10001100 00010001110110000000000
+The binary representation of decimal            -8763.001              is 1 10001100 00010001110110000000001

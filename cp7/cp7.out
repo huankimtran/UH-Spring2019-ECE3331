@@ -1,0 +1,14 @@
+The sum of polynomials::
+x^2
+and
+-3.56x^5+2.56x^4-x^3+x^2
+is
+-3.56x^5+2.56x^4-x^3+2x^2
+
+The product of polynomials::
+x^2
+and
+-3.56x^5+2.56x^4-x^3+x^2
+is
+-3.56x^7+2.56x^6-x^5+x^4
+ 

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554091804 source:e:\projects\cp5\hktran2cp5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1554235470 source:d:\projects\cp5\hktran2cp5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

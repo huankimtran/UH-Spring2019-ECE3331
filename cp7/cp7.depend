@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1556920450 source:e:\projects\cp7\cp7hktran2.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
+1556923784 source:e:\projects\cp7\hktran2cp7.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
