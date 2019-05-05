@@ -224,8 +224,8 @@ void print_poly(PTRTERM p)
             if(p->de!=0){
                 if(p->co!=1.000&&p->co!=-1.000)
                     print_co(p->co,pl); /*Print out coefficient when it is not 1 or -1*/
-                else if(pl?(p->de<0?1:0):1) /*print out the sign of the first term correctly*/
-                        fprintf(fo,"%c",p->co>0?'+':'-');
+                else if(pl?(p->co<0?1:0):1) /*print out the sign of the first term correctly*/
+                        fprintf(fo,"%c",(p->co>0?'+':'-'));
                 if(p->de!=1)
                     fprintf(fo,"x^%d",p->de);
                 else    /*If degree is 1, no need to print*/
@@ -237,6 +237,9 @@ void print_poly(PTRTERM p)
                 pl=0;
         }
     }while((p=p->n)!=NULL);
+    /*If no term has been printed, print 0*/
+    if(pl)
+        fprintf(fo,"0");
     fprintf(fo,"\n");
 }
 /*Sorting the linked list*/
